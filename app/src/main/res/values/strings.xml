@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RoomStorage</string>
+    <string name="name">Name</string>
+    <string name="age">Age</string>
+    <string name="gender">Gender</string>
+    <string name="error_message">Failed</string>
+    <string name="submit">SUBMIT</string>
+    <string name="next_page">NEXT PAGE</string>
+</resources>
